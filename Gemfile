@@ -1,4 +1,4 @@
-source 'https://rubygems.org' do
+source 'rubygems.org' do
 	gem 'sinatra'
 	gem 'bundler'
 end
