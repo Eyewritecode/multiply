@@ -1,3 +1,3 @@
-gem “sinatra”
-gem “ruby gems”
-gem “bundler”
+gem ‘sinatra’
+gem ‘ruby gems’
+gem ‘bundler’
